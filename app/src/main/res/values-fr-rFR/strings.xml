@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description" translatable="false">ਨੌਗਟ ਚੀਨੀ ਜਾਂ ਸ਼ਹਿਦ, ਭੁੰਨੇ ਹੋਏ ਗਿਰੀਦਾਰ (ਬਦਾਮ, ਅਖਰੋਟ, ਪਿਸਤਾ, ਹੇਜ਼ਲਨਟਸ, ਅਤੇ ਮਕਾਦਮੀਆ ਗਿਰੀਦਾਰ ਆਮ ਹਨ), ਕੋਰੜੇ ਅੰਡੇ ਗੋਰਿਆਂ, ਅਤੇ ਕਈ ਵਾਰੀ ਕੱਟਿਆ ਹੋਇਆ ਕੈਂਡੀਡ ਫਰ ਦੇ ਨਾਲ ਬਣਾਏ ਗਏ ਭੁਲੇਖੇ ਦਾ ਇੱਕ ਪਰਿਵਾਰ ਹੈ.</string>
+    <string name="nougat">ਨੌਗਟ ਕੈਂਡੀ ਪੈਕੇਜ</string>
+    <string name="action_help">" ਮਦਦ ਕਰੋ"</string>
+    <string name="help_text">ਜੇ ਤੁਹਾਨੂੰ ਮਦਦ ਦੀ ਲੋੜ ਹੈ, ਤਾਂ ਸਾਡੇ ਸਹਾਇਤਾ ਵਿਭਾਗ ਨਾਲ ਸੰਪਰਕ ਕਰੋ.</string>
+    <string name="dial_log_message">" ACTION_DIAL ਇਰਾਦੇ ਲਈ ਐਪ ਨੂੰ ਹੱਲ ਨਹੀਂ ਕਰ ਸਕਦਾ."</string>
+    <string name="app_name">" ਲੋਕਲ ਟੈਕਸਟ"</string>
+</resources>
